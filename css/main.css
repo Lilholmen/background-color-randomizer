@@ -3,7 +3,7 @@
 ::after {
   margin: 0;
   padding: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   box-sizing: border-box;
 }
 
@@ -35,7 +35,7 @@ main {
   min-width: 7rem;
   border: #181818 solid 2px;
   box-shadow: rgba(100, 100, 100, 0.178) 2px 2px;
-  border-radius: 15px;
+  border-radius: 10px;
   background: rgba(224, 224, 224, 0.25);
 }
 
