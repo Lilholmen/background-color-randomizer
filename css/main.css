@@ -9,7 +9,7 @@
 
 main {
   min-height: 100vh;
-  display: grid;
+  display: flex;
   place-items: center;
   min-width: 480px;
   user-select: none;
